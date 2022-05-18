@@ -1,0 +1,4 @@
+Esse arquivo é lixo, 
+e não será utilizado no projeto, 
+mas não exclua, 
+busque uma forma dele não ser versionado

@@ -1,0 +1,61 @@
+.skills{
+    padding-left: 35%;
+}
+
+.icon{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.icon-facebook{
+    font-size: 50px;
+    color: #4267B2!important;
+}
+.icon-github{
+    font-size: 50px;
+    color: #2a2a2a!important;
+}
+.icon-linkedin{
+    font-size: 50px;
+    color: #0e76a8!important;
+}
+.icon-whatsapp{
+    font-size: 50px;
+    color: #25D366!important;
+}
+.icon-outlook{
+    font-size: 50px;
+    color: #0078d4!important;
+}
+.icon-telegram{
+    font-size: 50px;
+    color: #0088cc!important;
+}
+.icon-download{
+    font-size: 25px!important;
+    color: #eeeeee!important;
+}
+
+li{
+    list-style:none;
+}
+li::before{
+    content: "\003E";
+}
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+.list-none{
+    list-style-type: none!important;  
+}
+
+.list-none li::before{
+    list-style: none!important;
+    content: none!important;
+}
